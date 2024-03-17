@@ -1,4 +1,4 @@
-# stats220
+# Stats 220
 
 The purpose of this repo is to demonstrate the use of Markdown and R for assessment.
 
